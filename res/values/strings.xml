@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EB Calculator</string>
+    <string name="tvunits">Consumed Units for the Period :</string>
+    <string name="tvlastbill">Last Bill Date :</string>
+    <string name="tvcurbill">Current Bill Date :</string>
+    <string name="tvcurrency">Rs.</string>
+    <string name="tvbill">N/A</string>
+    <string name="bcalculate">Calculate Bill</string>
+    <string name="ivceb">CEB Logo</string>
+    <string name="hello">Hello World</string>
+    <string name="tvnotify">Chargers for Consumption of this Period :</string>
+    <string name="about_dialog">About this app :</string>
+    <string name="tvabout">This application calulates Electricy Bill for the provided billing period.\nThis app is based on :\nPublic Consultation Documents on Setting of Tarrif for the period 2011 to 2015\n Designed &amp; Developed by :\nIsuru U. Jayaweera</string>
+    <string name="tvabtitle">About this app :</string>
+
+</resources>
